@@ -1,0 +1,9 @@
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\bin\Release\DataBase.dll.config
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\bin\Release\DataBase.dll
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\bin\Release\DataBase.pdb
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\bin\Release\Oracle.ManagedDataAccess.dll
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\obj\Release\DataBase.csproj.AssemblyReference.cache
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\obj\Release\DataBase.csproj.CoreCompileInputs.cache
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\obj\Release\DataBase.csproj.CopyComplete
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\obj\Release\DataBase.dll
+D:\ProjectBTMV\ProcessOnlinePro1Client\DataBase\obj\Release\DataBase.pdb

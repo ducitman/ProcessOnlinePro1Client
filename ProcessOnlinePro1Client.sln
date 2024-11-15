@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessOnlinePro1Client", "ProcessOnlinePro1Client\ProcessOnlinePro1Client.csproj", "{05891A08-B6A3-4C14-A3F1-D3FF16519D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{B4457BCA-3A79-4AAE-9F2D-F5C3A734900D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05891A08-B6A3-4C14-A3F1-D3FF16519D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05891A08-B6A3-4C14-A3F1-D3FF16519D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05891A08-B6A3-4C14-A3F1-D3FF16519D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05891A08-B6A3-4C14-A3F1-D3FF16519D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4457BCA-3A79-4AAE-9F2D-F5C3A734900D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4457BCA-3A79-4AAE-9F2D-F5C3A734900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4457BCA-3A79-4AAE-9F2D-F5C3A734900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4457BCA-3A79-4AAE-9F2D-F5C3A734900D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9100F7A-8F37-40D5-BA1B-3AFEA8C40150}
+	EndGlobalSection
+EndGlobal
